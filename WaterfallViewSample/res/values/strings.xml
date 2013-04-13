@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">WaterfallViewSample</string>
-    <string name="title_activity_sample">Waterfall Sample</string>
-    <string name="waterfall_refresh">Refreshing</string>
-    <string name="waterfall_adding_item">Photo Adding</string>
-</resources>
